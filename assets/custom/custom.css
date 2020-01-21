@@ -1,0 +1,21 @@
+/* page admin dashboard */
+.image img {
+	height: 60px;
+	width: 60px;
+	margin-left: -10px;
+}
+
+.info a {
+	position: relative;
+	top: 10px;
+}
+
+/* page 403 */
+.konten-error {
+	height: 85vh;
+}
+
+.error-page {
+	position: relative;
+	top: 35vh;
+}
